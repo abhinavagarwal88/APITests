@@ -1,4 +1,4 @@
-To Run the UI tests:
+To Run the API tests:
 
 A: Using Maven:
 
